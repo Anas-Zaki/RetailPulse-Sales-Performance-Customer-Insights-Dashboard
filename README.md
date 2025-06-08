@@ -62,19 +62,19 @@ We also performed SQL queries using **MySQL** and connected it through Python. K
 
 ## 📸 Dashboard Snapshots
 
-### 🔹 Overall Retail Performance Dashboard  
-![image](https://github.com/user-attachments/assets/55b6355a-3adc-4c4c-b716-09b7949b0acc)
+### 🔹 Overall Retail Performance Dashboard
+![image](https://github.com/user-attachments/assets/f3a3d3f9-fb7e-4583-91cf-612396b68500)
+
 
 ### 🟩 Profit by Region  
-![image](https://github.com/user-attachments/assets/48e0d3ae-e5c1-44e9-b140-a78f10bf35c5)
-
+![image](https://github.com/user-attachments/assets/93c2e2f2-cae1-44bd-8019-e1711163f370)
 
 ### 🟨 Top 10 Customers by Sales  
 ![image](https://github.com/user-attachments/assets/6f81a3ec-da36-4213-9627-808cca1ada03)
 
 
 ### 🟦 Average Profit by Region
-![image](https://github.com/user-attachments/assets/36cd6db1-2572-4386-b10b-43435596ac2f)
+![image](https://github.com/user-attachments/assets/123fe260-55ff-42b0-a8af-0be596560dd0)
 
 ## 📌 Key Features
 ✔️ End-to-end data cleaning using **Pandas**.         
