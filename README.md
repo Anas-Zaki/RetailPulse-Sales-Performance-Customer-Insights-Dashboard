@@ -12,7 +12,13 @@
 - **Avishek Das** – Data Analysis, Data Cleaning, Visualization Storytelling
 
 ---
+## 🧾 Dataset      
+**Source:** [Kaggle - Superstore Dataset (Retail)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+**Features Include:**         
+Order IDs, Order Dates, Customer and Product details, Sales & Profit metrics, Regions, Cities, Shipping Mode, and more.
+
+---
 ## 📁 Project Structure
 ```
 RetailPulse/
