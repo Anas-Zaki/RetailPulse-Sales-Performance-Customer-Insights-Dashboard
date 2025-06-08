@@ -20,7 +20,7 @@ RetailPulse/
 │── 📂 data/                             # Contains raw and processed datasets
 │   │── 📄 Superstore.csv                # Cleaned Data
 │── 📂 notebooks/                       # Jupyter notebooks for analysis
-│   │── 📄 EDA.ipynb                     # Exploratory Data Analysis notebook
+│   │── 📄 Superstore_Analysis.ipynb     # Exploratory Data Analysis notebook
 │   │── 📄 SQL_queries.ipynb             # SQL queries for extracting insights
 │   │── 📄 RetailPulse_Dashboard.pbix    # Web scraping script using BeautifulSoup
 ```
