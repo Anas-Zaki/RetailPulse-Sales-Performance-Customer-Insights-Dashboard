@@ -28,7 +28,7 @@ RetailPulse/
 │── 📂 notebooks/                       # Jupyter notebooks for analysis
 │   │── 📄 Superstore_Analysis.ipynb     # Exploratory Data Analysis notebook
 │   │── 📄 SQL_queries.ipynb             # SQL queries for extracting insights
-│   │── 📄 RetailPulse_Dashboard.pbix    # Web scraping script using BeautifulSoup
+│   │── 📄 RetailPulse_Dashboard.pbix    # Power Bi for final dashboard
 ```
 
 ## 🧹 Data Cleaning
