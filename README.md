@@ -69,7 +69,8 @@ We also performed SQL queries using **MySQL** and connected it through Python. K
 ## 📸 Dashboard Snapshots
 
 ### 🔹 Overall Retail Performance Dashboard
-![image](https://github.com/user-attachments/assets/f3a3d3f9-fb7e-4583-91cf-612396b68500)
+![dashboard](https://github.com/user-attachments/assets/2b170db3-e871-4edf-b9e7-266e1d3a35b0)
+
 
 
 ### 🟩 Profit by Region  
